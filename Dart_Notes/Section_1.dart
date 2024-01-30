@@ -1,6 +1,6 @@
-import 's1.dart';
+import 'test.dart';
 
 void main() {
-  double age = 20 + n2;
-  print("$age");
+  int n1 = 20, n2 = 30;
+  print(n1 + n2 + n3);
 }
